@@ -1,0 +1,13 @@
+{
+  "description": "Playing with rxjs and xml-stream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "rxjs": "^7.5.4",
+    "xml-stream": "^0.4.5"
+  }
+}
